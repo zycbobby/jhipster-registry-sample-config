@@ -15,5 +15,5 @@ jhipster:
                 secret: my-secret-token-to-change-in-production
 
 
-foo
+foo:
     bar: 1
